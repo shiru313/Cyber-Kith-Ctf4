@@ -7,9 +7,9 @@ https://drive.google.com/file/d/1Byj8K8MpUDQzutJqlrFJDDKnJrJF5HcU/view?usp=shari
 ```
 https://www.mediafire.com/file/gebma4k5p3l0xok/FLAG.png/file
 ```
-## step2 : After decoding the image you would need a password for password decode the file given below
+## step2 : After decoding the image you would need a password for password decode the file password.txt or wget using given below link.
 ```
-https://github.com/n00b-Cooder/Cyber-Kith-Ctf4/blob/main/something%20is%20encoded.txt
+wget https://github.com/n00b-Cooder/Cyber-Kith-Ctf4/blob/main/password.txt
 ```
 best of luck
 
